@@ -1,1 +1,1 @@
-# email-template
+This is an email template created I've coded.  Can be applied through Gmail.
